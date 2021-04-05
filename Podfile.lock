@@ -1,0 +1,55 @@
+PODS:
+  - DYQRCodeDecoder (1.1.2)
+  - GoogleMaps (4.2.0):
+    - GoogleMaps/Maps (= 4.2.0)
+  - GoogleMaps/Base (4.2.0)
+  - GoogleMaps/Maps (4.2.0):
+    - GoogleMaps/Base
+  - GooglePlaces (4.2.0):
+    - GoogleMaps/Base (= 4.2.0)
+  - Haneke (1.0.2)
+  - HSDatePickerViewController (1.0.4)
+  - JVFloatLabeledTextField (1.2.2)
+  - MBCircularProgressBar (0.3.5)
+  - Stripe (21.3.1):
+    - Stripe/Stripe3DS2 (= 21.3.1)
+  - Stripe/Stripe3DS2 (21.3.1)
+  - Vertigo (0.1)
+
+DEPENDENCIES:
+  - DYQRCodeDecoder
+  - GoogleMaps
+  - GooglePlaces
+  - Haneke (~> 1.0)
+  - HSDatePickerViewController (~> 1.0)
+  - JVFloatLabeledTextField
+  - MBCircularProgressBar
+  - Stripe
+  - Vertigo
+
+SPEC REPOS:
+  trunk:
+    - DYQRCodeDecoder
+    - GoogleMaps
+    - GooglePlaces
+    - Haneke
+    - HSDatePickerViewController
+    - JVFloatLabeledTextField
+    - MBCircularProgressBar
+    - Stripe
+    - Vertigo
+
+SPEC CHECKSUMS:
+  DYQRCodeDecoder: 8468610fa383361fba4e9c84711a56e6d8ed3169
+  GoogleMaps: eb03e327edfd70b06de1e6e321653f73712df7ad
+  GooglePlaces: 196a9dd88580dcb3f3df46f415057703d0d2a310
+  Haneke: 01454a67322faa0dd9d81fc0f447885044e71521
+  HSDatePickerViewController: 5a72b71f8c3b10e76f2c28a898f8572b551432a6
+  JVFloatLabeledTextField: df48598472ee015701d509f43e59492a0d4ca208
+  MBCircularProgressBar: 0b795b722a5eb5b0923822f90474e2576a1a7855
+  Stripe: 326a2160ac541eeffafb8b1aa0c9712e3ce8cec7
+  Vertigo: b971aa21e904512cfe387196ccba37df3f9a792e
+
+PODFILE CHECKSUM: fb2ab9e3083fbaf15bcd433913bf18da1db83f89
+
+COCOAPODS: 1.10.1
